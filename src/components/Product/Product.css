@@ -1,0 +1,25 @@
+
+.product{
+    display: flex;
+border-bottom: 1px solid lightgray;
+margin-right: 10px;
+margin-left: 50px;
+}
+.product-name{
+    color: blue;
+}
+
+.text-price{
+    font-size: 25px;
+}
+.btn-add{
+    background-color: gold;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 200px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.icon-color{
+    color: gold;
+}
